@@ -32,7 +32,5 @@ Please use this tool for educatonal,Learning Or For fair use
 We are not responsible for any other Illegal Uses
 
 
-
-======================
 --SUPPORT US & LET US KNOW YOUR FEEDBACK
 ===================================
