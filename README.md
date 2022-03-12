@@ -14,3 +14,23 @@ in mail headers and same option subjects To handle the spam filters if raised by
    In || Subjects.txt ||  
 4. Paste a List of Customer/User Mails [Already I have set it for Example] 
    In || Leads.txt || 
+5. Now You Can Start Sending With || Email_Sender.py ||
+===================================
+
+--HELP
+===================================
+#Before Running Script Open Command Prompt And Install Some Required Python Modules
+ 1. pip install colorama
+ 2. pip install config parser 
+===================================
+
+--NOTE
+===================================
+Please use this tool for educatonal,Learning Or For fair use
+We are not responsible for any other Illegal Uses
+===================================
+
+
+===================================
+--SUPPORT US & LET US KNOW YOUR FEEDBACKS
+===================================
