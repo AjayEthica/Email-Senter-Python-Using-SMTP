@@ -8,5 +8,9 @@ in mail headers and same option subjects To handle the spam filters if raised by
 ===================================
 1. Update your smtp,host,user,password [Time Wait is wait before shooting next mail]
    In || config.ini ||  
-2. Paste a List of from names accordingly [Already I have set it for Example] 
+2. Paste a List of From Names accordingly [Already I have set it for Example] 
    In || FromNames.txt ||  
+3. Paste a List of Subjects [Already I have set it for Example] 
+   In || Subjects.txt ||  
+4. Paste a List of Customer/User Mails [Already I have set it for Example] 
+   In || Leads.txt || 
